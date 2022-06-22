@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import './style/reset.css'
 import * as echarts from 'echarts'
-import 'lib-flexible'
+// import 'lib-flexible'
 Vue.prototype.$echarts = echarts;
 
 Vue.config.productionTip = false
